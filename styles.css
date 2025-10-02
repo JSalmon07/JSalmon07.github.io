@@ -1,9 +1,29 @@
 body {
-    background: #e6faff;
-    font-family: Arial, Helvetica, sans-serif;
+  background: #82D8FA;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-    h1 {
-    color: #434343;
-    text-align: center;
+h1 {
+  color: #000000;
+  text-align: center;
+}
+
+ .about 
+{ 
+  background: #3976F7
+}
+
+.skills
+{
+  background: #B2B8FA; 
+}
+
+.projects
+{
+  background: #A539F7;
+}
+
+.contact
+{
+  background: #7739F7;
 }
