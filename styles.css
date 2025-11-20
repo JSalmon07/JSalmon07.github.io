@@ -19,6 +19,7 @@ h1 {
     /* form the section blobs */
     width: 30%;
     margin: 10px;
+    text-align: center;
     padding: 20px 10px;
     background: #FFEBCD;
     /* rounded corners for the blobs */
